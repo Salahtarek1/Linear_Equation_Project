@@ -1,6 +1,7 @@
       ------------ this project created by salah tarek --------------------
       ------------      salahtarek1999@gmail.com      --------------------
   linear_equation is a new data type that can help anyone who wants to do operations on linear equations
+  
   such as :
   1 - convert the equation to the proper form ( this step will do automatically when you initialize the linear equation  ):
   
