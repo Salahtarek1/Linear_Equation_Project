@@ -6,6 +6,7 @@
       *** the variables of the equation will be ordered alphabetically from left to right
       *** variable names can be of any length
       *** coefficients can be of any length and including float values 
+      
       if  E = 3x2+4x1+4x3+x1-2x3-11+x4=16 
       then E in the proper form will be -> 5x1+3x2+2x23+1x4=27
       
