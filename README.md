@@ -3,6 +3,7 @@
   linear_equation is a new data type that can help anyone who wants to do operations on linear equations
   
   such as :
+  
   1 - convert the equation to the proper form ( this step will do automatically when you initialize the linear equation  ):
   
       *** the variables of the equation will be ordered alphabetically from left to right
